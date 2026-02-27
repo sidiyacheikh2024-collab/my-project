@@ -1,0 +1,5 @@
+{
+  "name": "Visionary AI Pro",
+  "description": "Advanced visual intelligence with image/video analysis and high-fidelity image generation.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
